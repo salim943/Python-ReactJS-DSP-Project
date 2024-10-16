@@ -1,0 +1,211 @@
+.wireHor{
+    height:10px;
+    z-index: 100;
+}
+.wireHor-1{
+    width:800px;
+    color:red;
+    background-color: red;
+    margin-top: 50px;
+    margin-left:100px;
+    border-radius: 5px;
+}
+.wireHor-2{
+    position: absolute;
+    width:100px;
+    color: red;
+    background-color: red;
+    margin-top:405px;
+    margin-left:200px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius:5px;
+}
+.wireHor-3{
+    position: absolute;
+    width:138px;
+    color: red;
+    background-color: red;
+    margin-top:245px;
+    margin-left:300px;
+    border-radius: 5px;
+}
+.wireHor-4{
+    position: absolute;
+    width:300px;
+    color: blue;
+    background-color: blue;
+    margin-top:40px;
+    margin-left:600px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.wireHor-5{
+    position: absolute;
+    width:150px;
+    color: blue;
+    background-color: blue;
+    margin-top:245px;
+    margin-left:600px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.wireHor-6{
+    position: absolute;
+    width:105px;
+    color: blue;
+    background-color: blue;
+    margin-top:405px;
+    margin-left:505px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.wireHor-7{
+    position: absolute;
+    width:95px;
+    color: yellow;
+    background-color: yellow;
+    margin-top:885px;
+    margin-left:265px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.wireHor-8{
+    position: absolute;
+    width:80px;
+    color: yellow;
+    background-color: yellow;
+    margin-top:405px;
+    margin-left:350px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.wireHor-9{
+    position: absolute;
+    width:80px;
+    color: yellow;
+    background-color: yellow;
+    margin-top:405px;
+    margin-left:670px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.wireHor-10{
+    position: absolute;
+    width:105px;
+    color: yellow;
+    background-color: yellow;
+    margin-top:695px;
+    margin-left:575px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.wireHor-11{
+    position: absolute;
+    width:105px;
+    color: black;
+    background-color: black;
+    margin-top:405px;
+    margin-left:820px;
+    border-radius:5px;
+}
+.wireHor-12{
+    position: absolute;
+    width:100px;
+    color: red;
+    background-color: red;
+    margin-top:645px;
+    margin-left:200px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius:5px;
+}
+.wireHor-13{
+    position: absolute;
+    width:130px;
+    color: red;
+    background-color: red;
+    margin-top:580px;
+    margin-left:300px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius:5px;
+}
+.wireHor-14{
+    position: absolute;
+    width:80px;
+    color: red;
+    background-color: red;
+    margin-top:580px;
+    margin-left:520px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius:5px;
+}
+.wireHor-15{
+    position: absolute;
+    width:130px;
+    color: red;
+    background-color: red;
+    margin-top:685px;
+    margin-left:600px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius:5px;
+}
+.wireHor-16{
+    position: absolute;
+    width:130px;
+    color: red;
+    background-color: red;
+    margin-top:685px;
+    margin-left:820px;
+    border-radius: 5px;
+}
+.wireVer{
+    width:10px;
+    z-index:100;
+}
+.wireVer-1{
+    position: absolute;
+    height:415px;
+    color:red;
+    background-color:red ;
+    margin-top:0px;
+    margin-left:300px;
+}
+.wireVer-2{
+    position: absolute;
+    height:360px;
+    color:blue;
+    background-color:blue ;
+    margin-top:50px;
+    margin-left:600px;
+}
+.wireVer-3{
+    position: absolute;
+    height:480px;
+    color:yellow;
+    background-color:yellow ;
+    margin-top:410px;
+    margin-left:350px;
+}
+.wireVer-4{
+    position: absolute;
+    height:285px;
+    color:yellow;
+    background-color:yellow ;
+    margin-top:410px;
+    margin-left:670px;
+}
+.wireVer-5{
+    position: absolute;
+    height:250px;
+    color:red;
+    background-color:red ;
+    margin-top:405px;
+    margin-left:300px;
+}
+.wireVer-6{
+    position: absolute;
+    height:110px;
+    color:red;
+    background-color:red ;
+    margin-top:580px;
+    margin-left:600px;
+}
